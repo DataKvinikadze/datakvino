@@ -1,0 +1,36 @@
+table {
+  background-color:whitesmoke;
+}
+
+th {
+  color: red;
+}
+
+.First{
+  color: blue;
+}
+
+.Second {
+  color: aqua;
+}
+
+.Third{
+  color: brown;
+}
+
+.Fourth {
+  color: blueviolet;
+}
+
+.Sixth {
+
+  color: bisque;
+}
+
+tbody{
+  font-size: 28px;
+}
+
+tbody{
+  font-weight: 500;
+}
